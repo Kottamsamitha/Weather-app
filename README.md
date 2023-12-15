@@ -1,0 +1,1 @@
+This is a basic weather App project that I have created. You can find images also. You can save all the images under a images folder and then u r ready to execute the index.html and can search for the required location's temperature
